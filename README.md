@@ -43,10 +43,6 @@ Bu projede kullanılan veri seti Kaggle üzerinden açık erişimlidir:
 
 Veri seti dört sınıftan oluşmakta olup eğitim ve test alt kümelerine ayrılmıştır.
 
-> **Not:**  
-> Veri seti repository içerisinde yer almamaktadır.  
-> Veri setini indirdikten sonra yerel dizininize ekleyip notebook içerisindeki yol ayarlarını güncellemeniz gerekmektedir.
-
 ---
 
 ## Klasör Yapısı
