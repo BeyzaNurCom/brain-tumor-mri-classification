@@ -53,10 +53,6 @@ Veri seti dört sınıftan oluşmakta olup eğitim ve test alt kümelerine ayrı
   - `gradio.ipynb`  
     Eğitilmiş modeli kullanarak MR görüntüleri üzerinde tahmin yapılmasını sağlayan Gradio tabanlı arayüz.
 
-- **`models/`**
-  - `final_baseline_cnn_model.keras`  
-    En iyi performansı gösteren ve nihai model olarak seçilen eğitilmiş CNN modeli.
-
 - **`report/`**
   - `rapor.pdf`  
     Projenin detaylı raporu (problem tanımı, yöntem, deneyler ve sonuçlar).
