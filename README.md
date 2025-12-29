@@ -6,7 +6,7 @@ Proje kapsamında model eğitimi, değerlendirme süreci, eğitilmiş model dosy
 
 ---
 
-## 📌 Proje Hakkında
+## Proje Hakkında
 
 Beyin tümörleri, erken teşhis gerektiren ciddi sağlık problemleridir. MR görüntülerinin manuel olarak incelenmesi zaman alıcı ve yoruma açık olduğundan, otomatik sınıflandırma sistemleri büyük önem taşımaktadır.
 
@@ -21,7 +21,7 @@ Farklı CNN mimarileri karşılaştırılmış ve en iyi performansı gösteren 
 
 ---
 
-## 🧠 Kullanılan Modeller
+## Kullanılan Modeller
 
 Çalışma kapsamında aşağıdaki modeller uygulanmış ve karşılaştırılmıştır:
 
@@ -34,7 +34,7 @@ Deneysel sonuçlara göre **temel CNN modeli**, test doğruluğu ve F1-skoru aç
 
 ---
 
-## 📊 Veri Seti
+## Veri Seti
 
 Bu projede kullanılan veri seti Kaggle üzerinden açık erişimlidir:
 
@@ -49,7 +49,7 @@ Veri seti dört sınıftan oluşmakta olup eğitim ve test alt kümelerine ayrı
 
 ---
 
-## 📁 Klasör Yapısı
+## Klasör Yapısı
 
 - **`notebooks/`**
   - `train.ipynb`  
@@ -67,7 +67,7 @@ Veri seti dört sınıftan oluşmakta olup eğitim ve test alt kümelerine ayrı
 
 ---
 
-## 📌 Notlar
+## Notlar
 
 - Bu proje **akademik ve eğitim amaçlıdır**.
 - Elde edilen sonuçlar klinik tanı amacıyla kullanılmamalıdır.
